@@ -1,0 +1,7 @@
+# This text is part of the assignment04-github.py from this repository
+
+Andrew is the lecturer of the module Web Serices and Applications
+Andrew also is the lecturer of the module Programming and Scripting
+Andrew works in ATU Galway 
+
+
