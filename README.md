@@ -1,4 +1,4 @@
-# WSAA-Final Project
+# Web services and applications-Final Project
 This repository is part of the module of the same name of the HDip in Data Analysis of ATU Galway and contains the assessments.
 
 ***
